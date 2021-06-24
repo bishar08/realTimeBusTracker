@@ -1,1 +1,3 @@
 # realTimeBusTracker
+
+In this exercise, 
